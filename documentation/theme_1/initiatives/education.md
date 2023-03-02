@@ -1,7 +1,26 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
+"Title of the Initiative"
 
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
+Description: [A brief description of the initiative]
 
+Goals: [List the goals or objectives of the initiative]
 
-# List initiatives related to this theme
-1. [Initiative](../../../documentation/templates/theme/initiatives/initiative_template.md)
+Scope: [Define the scope of the initiative]
+
+Outcomes: [Describe the expected outcomes of the initiative]
+
+Deliverables: [List the expected deliverables of the initiative]
+
+Milestones: [List the major milestones and their timelines]
+
+Constraints: [Identify any constraints or limitations that may impact the initiative]
+
+Assumptions: [List any assumptions made about the initiative]
+
+Risks: [List the potential risks and mitigation strategies]
+
+Dependencies: [List any dependencies that may impact the initiative]
+
+Team: [Identify the team members and their roles in the initiative]
+
+# List epics related to this theme
+1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
