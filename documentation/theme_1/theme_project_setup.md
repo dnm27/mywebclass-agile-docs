@@ -31,21 +31,38 @@ User Acceptance Testing: This phase involves testing the website's functionality
 
 Test Scenarios:
 
-Educational Resource Search Functionality:
-Test the website's search functionality to ensure that it returns relevant results for educational resources.
-Test the website's filtering functionality to ensure that users can filter educational resources by subject area, grade level, and topic.
-Test the website's sorting functionality to ensure that users can sort educational resources by relevance, date, and popularity.
-Progress Tracking System:
-Test the progress tracking system to ensure that it accurately tracks the progress of educational resources.
-Test the website's dashboard functionality to ensure that users can view their progress on educational resources.
-Test the website's reporting functionality to ensure that users can generate reports on their progress.
-Personalization System:
-Test the personalization system to ensure that it accurately generates personalized content recommendations for users.
-Test the website's user profile functionality to ensure that users can input their interests and preferences.
-Test the website's recommendation engine to ensure that it generates recommendations based on user data.
-Feedback Mechanisms:
-Test the website's feedback mechanisms to ensure that they function as intended.
-Test the website's reporting functionality to ensure that feedback is collected and analyzed effectively.
-Test the website's responsiveness to feedback by implementing improvements based on user feedback.
-Conclusion:
-Testing is a critical component of the development process for mywebclass.org. By following this test plan, we will ensure that the website functions as intended, meets the requirements specified in the user stories, and provides teachers with the best possible resources and tools for their teaching.
+1. Educational Resource Search Functionality:
+  
+ Test the website's search functionality to ensure that it returns relevant results for educational resources.
+  
+ Test the website's filtering functionality to ensure that users can filter educational resources by subject area, grade level, and topic.
+  
+ Test the website's sorting functionality to ensure that users can sort educational resources by relevance, date, and popularity.
+ 
+2. Progress Tracking System:
+ 
+ Test the progress tracking system to ensure that it accurately tracks the progress of educational resources.
+  
+ Test the website's dashboard functionality to ensure that users can view their progress on educational resources.
+  
+ Test the website's reporting functionality to ensure that users can generate reports on their progress.
+ 
+3. Personalization System:
+  
+  Test the personalization system to ensure that it accurately generates personalized content recommendations for users.
+  
+  Test the website's user profile functionality to ensure that users can input their interests and preferences.
+  
+  Test the website's recommendation engine to ensure that it generates recommendations based on user data.
+  
+4. Feedback Mechanisms:
+  
+  Test the website's feedback mechanisms to ensure that they function as intended.
+  
+  Test the website's reporting functionality to ensure that feedback is collected and analyzed effectively.
+  
+  Test the website's responsiveness to feedback by implementing improvements based on user feedback.
+  
+ Conclusion:
+
+  Testing is a critical component of the development process for mywebclass.org. By following this test plan, we will ensure that the website functions as intended, meets the requirements specified in the user stories, and provides teachers with the best possible resources and tools for their teaching.
