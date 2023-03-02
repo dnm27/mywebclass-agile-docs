@@ -1,26 +1,12 @@
-"Title of the Initiative"
+"Research and curate relevant educational content for the website."
 
-Description: [A brief description of the initiative]
+* Conduct research on the latest advancements and trends in engineering and technology.
+* Identify the most relevant and useful information for teachers.
+* Curate a variety of educational content, such as articles, videos, and tutorials, to meet the needs of different types of learners.
+* Ensure that all content is factually accurate and up-to-date.
+* Collaborate with educators and subject matter experts to ensure the accuracy and relevance of the content.
+* Conduct user testing to ensure that the educational content is effective and engaging.
 
-Goals: [List the goals or objectives of the initiative]
-
-Scope: [Define the scope of the initiative]
-
-Outcomes: [Describe the expected outcomes of the initiative]
-
-Deliverables: [List the expected deliverables of the initiative]
-
-Milestones: [List the major milestones and their timelines]
-
-Constraints: [Identify any constraints or limitations that may impact the initiative]
-
-Assumptions: [List any assumptions made about the initiative]
-
-Risks: [List the potential risks and mitigation strategies]
-
-Dependencies: [List any dependencies that may impact the initiative]
-
-Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this initiative
 1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)

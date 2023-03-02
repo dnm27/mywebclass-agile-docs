@@ -1,26 +1,11 @@
-"Title of the Initiative"
+"Implement Google Analytics tracking codes on the website."
 
-Description: [A brief description of the initiative]
+* Create a Google Analytics account and set up tracking codes for the website.
+* Define custom metrics and goals to measure the success of the website.
+* Test the tracking codes to ensure that they are correctly implemented.
+* Monitor website behavior data and adjust the website as needed to improve performance.
+* Continuously analyze and optimize the website to improve user engagement and reach goals.
 
-Goals: [List the goals or objectives of the initiative]
-
-Scope: [Define the scope of the initiative]
-
-Outcomes: [Describe the expected outcomes of the initiative]
-
-Deliverables: [List the expected deliverables of the initiative]
-
-Milestones: [List the major milestones and their timelines]
-
-Constraints: [Identify any constraints or limitations that may impact the initiative]
-
-Assumptions: [List any assumptions made about the initiative]
-
-Risks: [List the potential risks and mitigation strategies]
-
-Dependencies: [List any dependencies that may impact the initiative]
-
-Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this initiative
 1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
