@@ -14,9 +14,6 @@ The theme is designed to be user-centric, with the aim of empowering teachers an
 * [Creation of user feedback mechanism](initiatives/feedback.md)
 * [Development of a blog to discuss the latest advancements in educational technologies](initiatives/blog.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
 Test Plan for mywebclass.org
