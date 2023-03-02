@@ -13,7 +13,7 @@ this assignment, you should use ChatGPT as much as possible to help you write go
 taking what you mean to say and turning into this type of documentation.
 # Videos
 * **[Agile Lean Part 1](https://youtu.be/KIxQaWsG3vk)**
-* **[Agile Lean Part 2](https://youtu.be/e4FLisvf7vg )**
+* **[Agile Lean Part 2](https://youtu.be/e4FLisvf7vg)**
 
 ## Scope of the exercise
 
