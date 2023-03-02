@@ -8,9 +8,11 @@ The theme is designed to be user-centric, with the aim of empowering teachers an
 
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Design and development of the website's user interface](initiatives/interface.md)
+* [Integration of relevant educational content related to engineering and advanced technologies](initiatives/education.md)
+* [Implementation of user account creation and management system](initiatives/managment.md)
+* [Creation of user feedback mechanism](initiatives/feedback.md)
+* [Development of a blog to discuss the latest advancements in educational technologies](initiatives/blog.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
