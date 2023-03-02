@@ -16,5 +16,5 @@ Business Value: [Specify the business value that will be delivered by the epic]
 
 Priority: [Assign a priority to the epic]
 
-# List stories related to this theme
+# List stories related to this epic
 1. [Story 1](../../../../../documentation/templates/theme/initiatives/epics/stories/story_template.md)
