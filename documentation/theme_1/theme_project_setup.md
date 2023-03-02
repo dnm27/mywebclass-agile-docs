@@ -1,9 +1,13 @@
 # Theme 1.0: Project Setup
 ## Overview
 Theme: Revolutionizing Teaching through Engineering and Advanced Technologies
+
 The theme for the development of mywebclass.org is centered around the idea of revolutionizing teaching by leveraging the power of engineering and advanced technologies. The goal of the website is to provide teachers with access to educational resources, tools, and best practices that can help them enhance their teaching skills and deliver a more engaging and effective learning experience for their students.
+
 The theme is driven by the need to keep up with the ever-evolving landscape of education, as traditional teaching methods are no longer enough to prepare students for the demands of the modern world. Engineering and advanced technologies offer new and innovative ways to engage students and enable them to develop the skills they need to succeed in the 21st century.
+
 The website will focus on providing teachers with resources that cover a wide range of engineering and advanced technologies, including topics such as robotics, coding, AI, virtual and augmented reality, and more. The website will also provide teachers with tools and best practices that can help them integrate these technologies into their teaching in a seamless and effective manner.
+
 The theme is designed to be user-centric, with the aim of empowering teachers and giving them the support they need to be successful in their role. The development of mywebclass.org will be guided by the needs of teachers, as they are the primary users of the website. Through user research and feedback, the website will continuously evolve and improve to meet the changing needs of teachers and provide them with the best possible resources and tools for their teaching.
 
 ## Initiative(s)
