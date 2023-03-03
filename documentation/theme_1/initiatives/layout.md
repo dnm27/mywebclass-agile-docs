@@ -9,4 +9,6 @@
 
 
 # List epics related to this theme
-1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](epics/analytics.md)
+2. [Epic 2](epics/develop.md)
+3. [Epic 3](epics/privacy.md)
