@@ -42,4 +42,7 @@ Priority:
 * High, as compliance with GDPR regulations is essential for the website's credibility and reputation
 
 # List stories related to this theme
-1. [Story 1](../../../../../documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Find Educational Resources](stories/easy-find.md)
+2. [Personalize Content](stories/personalize.md)
+3. [Provide Feedback](stories/provide-feedback.md)
+4. [Track My Progress](stories/track.md)

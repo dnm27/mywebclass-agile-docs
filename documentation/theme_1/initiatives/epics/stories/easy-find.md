@@ -11,4 +11,10 @@ Acceptance Criteria:
 
 
 # List Tasks related to this Story
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Conduct Research](tasks/conduct.md)
+2. [Continuous Updating](tasks/cont-update.md)
+3. [New Resources](tasks/engaging.md)
+4. [Search Function](tasks/function.md)
+5. [Categorize Resources](tasks/tagging.md)
+6. [Taxonomy System](tasks/taxonomy.md)
+7. [Test and Update Search](tasks/test-and-update.md)
