@@ -10,9 +10,9 @@ User Story 1:
 
 
 # List Tasks related to this story
-1. [Learn Task 1](tasks/learn-1.md)
-2. [Learn Task 2](tasks/learn-2.md)
-3. [Learn Task 3](tasks/learn-3.md)
-4. [Learn Task 4](tasks/learn-4.md)
-5. [Learn Task 5](tasks/learn-5.md)
-6. [Learn Task 6](tasks/learn-6.md)
+1. [Indentify Relevant](tasks/learn-1.md)
+2. [Research and Curate](tasks/learn-2.md)
+3. [Create Individual Pages](tasks/learn-3.md)
+4. [Easy To Access](tasks/learn-4.md)
+5. [User Acceptance Testing](tasks/learn-5.md)
+6. [User Feedback](tasks/learn-6.md)

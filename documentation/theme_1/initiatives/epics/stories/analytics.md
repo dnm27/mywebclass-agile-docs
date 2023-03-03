@@ -9,8 +9,8 @@ User Story 3:
 
 
 # List Tasks related to this story
-1. [Analytics Task 1](tasks/analytics-1.md)
-2. [Analytics Task 2](tasks/analytics-2.md)
-3. [Analytics Task 3](tasks/analytics-3.md)
-4. [Analytics Task 4](tasks/analytics-4.md)
-5. [Analytics Task 5](tasks/analytics-5.md)
+1. [Google Analytics Account](tasks/analytics-1.md)
+2. [Google Analytics Tracking](tasks/analytics-2.md)
+3. [Create Custom Reports](tasks/analytics-3.md)
+4. [Analyze User Behavior](tasks/analytics-4.md)
+5. [Updates Based on Data](tasks/analytics-5.md)

@@ -9,8 +9,8 @@ User Story 2:
 
 
 # List Tasks related to this story
-1. [Navigate Task 1](tasks/navi-1.md)
-2. [Navigate Task 2](tasks/navi-2.md)
-3. [Navigate Task 3](tasks/navi-3.md)
-4. [Navigate Task 4](tasks/navi-4.md)
-5. [Navigate Task 5](tasks/navi-5.md)
+1. [Website Navigation](tasks/navi-1.md)
+2. [Consistent Design](tasks/navi-2.md)
+3. [Descritive Heading](tasks/navi-3.md)
+4. [User Acceptance](tasks/navi-4.md)
+5. [Updates](tasks/navi-5.md)
