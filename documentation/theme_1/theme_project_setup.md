@@ -1,4 +1,4 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: "Empowering Teachers to Revolutionize Education with Advanced Technologies"
 ## Overview
 Theme: Revolutionizing Teaching through Engineering and Advanced Technologies
 
@@ -19,7 +19,7 @@ The theme is designed to be user-centric, with the aim of empowering teachers an
 * [Development of a blog to discuss the latest advancements in educational technologies](initiatives/blog.md)
 
 
-## Test plan
+## Test Plan
 Test Plan for mywebclass.org
 
 Introduction:

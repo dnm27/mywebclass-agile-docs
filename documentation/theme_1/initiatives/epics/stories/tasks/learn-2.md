@@ -1,0 +1,11 @@
+Research and curate educational resources for each concept, such as articles, videos, and tutorials
+
+The task of researching and curating educational resources involves finding relevant and informative materials on a particular concept or topic. These materials can include articles, videos, tutorials, podcasts, and other digital or print media that provide information on the subject matter. The purpose of this task is to gather a collection of resources that can help individuals learn more about a particular topic or subject, and to provide a variety of resources that appeal to different learning styles.
+
+To complete this task, one would typically start by identifying the key concepts or topics that need to be covered. This may involve reviewing existing materials or consulting with subject matter experts to ensure that the list is comprehensive and accurate. Once the concepts have been identified, the next step is to conduct research to find relevant and high-quality resources.
+
+This may involve searching online databases, academic journals, and other sources of scholarly information, as well as consulting with other professionals in the field. It is important to evaluate each resource carefully, taking into consideration factors such as accuracy, credibility, and relevance to the topic.
+
+Once a collection of resources has been identified, the next step is to curate them in a way that makes them accessible and easy to use. This may involve organizing the resources into categories based on the topic or level of difficulty, creating summaries or descriptions of each resource, and providing links or other access information.
+
+Overall, the task of researching and curating educational resources is a critical step in creating effective learning experiences for individuals seeking to develop their knowledge and skills in a particular subject area. By carefully selecting and organizing resources, educators can provide learners with the tools they need to succeed and achieve their learning goals.
