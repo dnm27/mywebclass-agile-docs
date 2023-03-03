@@ -1,4 +1,4 @@
-* "Integration of relevant educational content related to engineering and advanced technologies"
+"Integration of relevant educational content related to engineering and advanced technologies"
 
 Description:
 
