@@ -7,5 +7,5 @@
 * Continuously analyze and optimize the website to improve user engagement and reach goals.
 
 
-# List epics related to this initiative
+# List epics related to this theme
 1. [Epic 1](../../../../documentation/templates/theme/initiatives/epics/epic_template.md)
