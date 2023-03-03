@@ -12,4 +12,4 @@ Acceptance Criteria:
 
 
 # List Tasks related to this Story
-1. [Stories 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Implement Personalization](tasks/impliment-personal.md)

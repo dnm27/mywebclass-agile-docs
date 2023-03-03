@@ -12,4 +12,10 @@ Acceptance Criteria:
 
 
 # List Tasks related to this Story
-1. [Stories 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Best Practices](tasks/best-practice.md)
+2. [Collecting Feedback](tasks/collecting.md)
+3. [Implement Feedback](tasks/impliment-feed.md)
+4. [Monitor Feedback](tasks/monitor.md)
+5. [Research Feedback Systems](tasks/research-feed.md)
+6. [Test Feedback Systems](tasks/test-feed.md)
+7. [Implement Feedback into Website](tasks/website.md)
