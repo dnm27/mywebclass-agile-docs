@@ -11,7 +11,7 @@ services:
       labels:
       - 'com.centurylinklabs.watchtower.enable=true'
     development_branch:
-      image: dnm27/agil:development
+      image: dnm27/agile:development
       container_name: development_branch
       pull_policy: always
       restart: always
