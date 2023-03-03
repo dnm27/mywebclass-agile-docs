@@ -10,3 +10,5 @@ Make necessary updates to the website based on user feedback
 1. [Navigate Task 1](tasks/navi-1.md)
 2. [Navigate Task 2](tasks/navi-2.md)
 3. [Navigate Task 3](tasks/navi-3.md)
+4. [Navigate Task 4](tasks/navi-4.md)
+5. [Navigate Task 5](tasks/navi-5.md)

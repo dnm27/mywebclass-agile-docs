@@ -1,0 +1,1 @@
+Conduct regular audits of user data handling to ensure continued compliance with GDPR regulations.

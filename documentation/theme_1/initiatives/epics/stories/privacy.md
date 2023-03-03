@@ -11,3 +11,6 @@ Conduct regular audits of user data handling to ensure continued compliance with
 1. [Privacy Task 1](tasks/priv-1.md)
 2. [Privacy Task 2](tasks/priv-2.md)
 3. [Privacy Task 3](tasks/priv-3.md)
+4. [Privacy Task 4](tasks/priv-4.md)
+5. [Privacy Task 5](tasks/priv-5.md)
+6. [Privacy Task 6](tasks/priv-6.md)

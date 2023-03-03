@@ -1,0 +1,1 @@
+Train relevant personnel on GDPR regulations and the privacy policy to ensure compliance
