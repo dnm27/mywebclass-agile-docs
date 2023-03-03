@@ -13,3 +13,8 @@ Acceptance Criteria:
 
 # List Tasks related to this Story
 1. [Implement Personalization](tasks/impliment-personal.md)
+2. [Research Best Practices](tasks/best-practices.md)
+3. [Collect Feedback](tasks/collecting.md)
+4. [Implement Feedback](tasks/impliment-feed.md)
+5. [Monitor Feedback](tasks/monitor.md)
+6. [Implement Feedback into Website](tasks/website.md)
