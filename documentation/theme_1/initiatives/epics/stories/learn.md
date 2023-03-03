@@ -10,7 +10,7 @@ User Story 1:
 
 
 # List Tasks related to this story
-1. [Indentify Relevant](tasks/learn-1.md)
+1. [Identify Relevant](tasks/learn-1.md)
 2. [Research and Curate](tasks/learn-2.md)
 3. [Create Individual Pages](tasks/learn-3.md)
 4. [Easy To Access](tasks/learn-4.md)
