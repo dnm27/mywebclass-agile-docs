@@ -7,4 +7,6 @@ Make necessary updates to the website based on user feedback
 
 
 # List Tasks related to this story
-1. [Tasks 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Navigate Task 1](tasks/navi-1.md)
+2. [Navigate Task 2](tasks/navi-2.md)
+3. [Navigate Task 3](tasks/navi-3.md)

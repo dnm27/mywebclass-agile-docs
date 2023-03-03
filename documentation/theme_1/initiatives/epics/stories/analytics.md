@@ -7,4 +7,6 @@ Make necessary updates to the website based on user behavior data and user feedb
 
 
 # List Tasks related to this story
-1. [Tasks 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Analytics Task 1](tasks/analytics-1.md)
+2. [Analytics Task 2](tasks/analytics-2.md)
+3. [Analytics Task 3](tasks/analytics-3.md)

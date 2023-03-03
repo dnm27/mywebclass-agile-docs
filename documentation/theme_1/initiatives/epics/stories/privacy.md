@@ -8,4 +8,6 @@ Conduct regular audits of user data handling to ensure continued compliance with
 
 
 # List Tasks related to this story
-1. [Tasks 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Privacy Task 1](tasks/priv-1.md)
+2. [Privacy Task 2](tasks/priv-2.md)
+3. [Privacy Task 3](tasks/priv-3.md)

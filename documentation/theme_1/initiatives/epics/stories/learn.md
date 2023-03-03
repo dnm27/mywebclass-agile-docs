@@ -8,4 +8,6 @@ Make necessary updates to the website based on user feedback
 
 
 # List Tasks related to this story
-1. [Tasks 1](../../../../../../documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Learn Task 1](tasks/learn-1.md)
+2. [Learn Task 2](tasks/learn-2.md)
+3. [Learn Task 3](tasks/learn-3.md)
