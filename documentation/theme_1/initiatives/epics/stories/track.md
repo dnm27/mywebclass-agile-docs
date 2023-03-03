@@ -13,8 +13,7 @@ Acceptance Criteria:
 
 # List Tasks related to this Story
 1. [Implement Progress Tracking](tasks/impliment-tracking.md)
-2. [Implement Progress Tracking](tasks/impliment.md)
-3. [Update Progress Tracking](tasks/keep-updated.md)
-4. [Test Progress Tracking](tasks/testing-working.md)
-5. [Develop Dashboard](tasks/track-progress.md)
-6. [Develop User Profile](tasks/user-profile.md)
+2. [Update Progress Tracking](tasks/keep-updated.md)
+3. [Test Progress Tracking](tasks/testing-working.md)
+4. [Develop Dashboard](tasks/track-progress.md)
+5. [Develop User Profile](tasks/user-profile.md)
